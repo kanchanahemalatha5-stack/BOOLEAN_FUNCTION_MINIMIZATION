@@ -62,9 +62,9 @@ RegisterNumber:25016997
 **RTL realization**
 <img width="964" height="497" alt="Screenshot 2025-12-03 161547" src="https://github.com/user-attachments/assets/a87e090a-4435-4403-8ac6-7327e7c5d068" />
 
-
-**RTL**
 **Output:**
+**RTL**
+
 <img width="1226" height="184" alt="Screenshot 2025-12-03 161606" src="https://github.com/user-attachments/assets/32edced1-8f70-4081-942f-d169ef31be36" />
 
 **Timing Diagram**
